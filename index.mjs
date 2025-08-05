@@ -1,23 +1,4 @@
-//
-// Calculadora
+import { Calculadora } from './calculadora_clase.mjs'
+import { input } from "./utils.mjs"
 
-/*
-Tiene que tener
 
-- Clases Calculadora
-- Metodos Sumar, Restar, Multiplicar, Dividir, Resto, Potencia
-- Menú Interactivo
-- Tiene que estar dividido en archivos
-
-*/
-//
-// Calculadora
-
-/*
-Tiene que tener
-
-- Clases Calculadora
-- Metodos Sumar, Restar, Multiplicar, Dividir, Resto, Potencia
-- Menú Interactivo
-- Tiene que estar dividido en archivos
-*/
