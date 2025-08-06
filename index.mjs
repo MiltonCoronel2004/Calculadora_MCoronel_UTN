@@ -51,7 +51,7 @@ async function main() {
         }
     }
 
-    console.log("¡Hasta luego!")
+    console.log("Gud bai")
 }
 
 main()
